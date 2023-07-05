@@ -2,8 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "오정이",
-    image: "![06223543118ff4d8249eb11f9a641024-sticker](https://github.com/Ojung-ii/Sales-Analysis/assets/112710022/6a0f50d3-dd2e-44bd-888d-37d06bbd849b)",
-                //"/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Data scientist & Analyst",
     bio: "🦆",
     email: "ojh7839@gmail.com",
