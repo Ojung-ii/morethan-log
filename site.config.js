@@ -14,18 +14,18 @@ const CONFIG = {
   projects: [
     {
       name: `Ojungii_log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      href: "https://github.com/Ojung-ii/morethan-log",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "Ojungii-log",
+    description: "Welcome to Ojungii_blog😁",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
+  link: "https://ojungii-blog.vercel.app", //"https://morethan-log.vercel.app",
   since: 2022, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
