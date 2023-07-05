@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "오정이",
-    image: "https://notion-avatar.vercel.app/api/svg/eyJmYWNlIjo4LCJub3NlIjoxMywibW91dGgiOjEwLCJleWVzIjoxLCJleWVicm93cyI6NCwiZ2xhc3NlcyI6MSwiaGFpciI6MzQsImFjY2Vzc29yaWVzIjowLCJkZXRhaWxzIjowLCJiZWFyZCI6MCwiZmxpcCI6MSwiY29sb3IiOiIjYmZiZmJmIiwic2hhcGUiOiJub25lIn0=",
+    image: "![notion avatar](https://notion-avatar.vercel.app/api/svg/eyJmYWNlIjo4LCJub3NlIjoxMywibW91dGgiOjEwLCJleWVzIjoxLCJleWVicm93cyI6NCwiZ2xhc3NlcyI6MSwiaGFpciI6MzQsImFjY2Vzc29yaWVzIjowLCJkZXRhaWxzIjowLCJiZWFyZCI6MCwiZmxpcCI6MSwiY29sb3IiOiIjYmZiZmJmIiwic2hhcGUiOiJub25lIn0=)",
                 //"/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Data scientist & Analyst",
     bio: "🦆",
