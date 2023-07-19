@@ -17,7 +17,7 @@ const CONFIG = {
     },
   ],
   // blog setting (required)
-  blog: {
+  blog: { 
     title: "Ojungii-log",
     description: "Welcome to Ojungii_blog😁",
     theme: "auto", // ['light', 'dark', 'auto']
