@@ -8,12 +8,12 @@ const CONFIG = {
     email: "ojh7839@gmail.com",
     linkedin: "none",
     github: "Ojung-ii",
-    instagram: "",
+    instagram: "o-jungii",
   },
   projects: [
     {
-      name: `Ojungii_log`,
-      href: "https://github.com/Ojung-ii/morethan-log",
+      name: `Dementia_Analysis`,
+      href: "https://github.com/Ojung-ii/Dementia_Analysis.git",
     },
   ],
   // blog setting (required)
